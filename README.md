@@ -27,3 +27,5 @@ CorelDRAW UI
 
 
 https://github.com/Corel-DRAW-Graphics-Suite-Activated/.github
+
+https://github.com/Corel-DRAW-Graphics-Suite-Activated
