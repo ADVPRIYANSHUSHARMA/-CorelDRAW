@@ -24,3 +24,6 @@ Enjoy full access to the suite without limitations
 
 🖼 Preview
 CorelDRAW UI
+
+
+https://github.com/Corel-DRAW-Graphics-Suite-Activated/.github
